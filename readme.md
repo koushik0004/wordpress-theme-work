@@ -1,1 +1,2 @@
-wordpressadmin/@Superuser#40$
+# wordpress-theme-work
+first try to integrating theme in wordpress
